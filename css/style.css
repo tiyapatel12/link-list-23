@@ -43,10 +43,10 @@ a p{
     column-count: 1;
 }
 a p:hover{
-    background-color: #83788f;
+    background-color: #A196D2;
 }
 a p:active{
-    background-color: rgb(233, 210, 255);
+    background-color: #FBCFCE;
 }
 #container{
     width: 800px;
